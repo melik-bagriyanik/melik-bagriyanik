@@ -60,21 +60,23 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
         alt="Top Langs"
-        width="90%"
+        width="400"
+        height="180"
       />
     </td>
     <td width="50%" align="center">
       <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=480"
+          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=400"
           alt="GitHub Streak"
-          width="90%"
-height="100%"
+          width="400"
+          height="180"
         />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
