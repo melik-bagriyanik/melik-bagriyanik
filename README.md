@@ -51,10 +51,27 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ### 🛠️ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Langs"
+    width="480"
+    height="160"
+    style="object-fit: contain;"
+  />
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=480"
+      alt="GitHub Streak"
+      width="480"
+      height="160"
+      style="object-fit: contain;"
+    />
+  </a>
+</p>
+
 
 
