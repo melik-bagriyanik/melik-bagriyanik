@@ -54,7 +54,7 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
-<p align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px; margin: auto;">
+<p align="center" style="display: flex; justify-content: space-around; width: 100%; max-width: 960px; margin: auto;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     alt="Top Langs"
