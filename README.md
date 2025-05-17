@@ -54,21 +54,17 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
-<p align="start" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px; margin: auto;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     alt="Top Langs"
-    width="480"
-    height="160"
-    style="object-fit: contain;"
+    style="flex: 1; max-width: 48%; height: auto;"
   />
-  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer" style="flex: 1; max-width: 48%;">
     <img
       src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=480"
       alt="GitHub Streak"
-      width="480"
-      height="160"
-      style="object-fit: contain;"
+      style="width: 100%; height: auto;"
     />
   </a>
 </p>
