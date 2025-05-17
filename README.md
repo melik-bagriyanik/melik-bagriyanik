@@ -54,23 +54,27 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
-<div style="display: flex; gap: 10px; width: 100%; max-width: 1000px; margin: auto;">
+<table style="width: 100%; max-width: 1000px; table-layout: fixed; border-collapse: separate; border-spacing: 10px; border: none;">
+  <tr style="border: none;">
+    <td style="width: 50%; padding: 0; border: none;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+        alt="Top Langs"
+        style="width: 100%; height: 180px; border-radius: 15px; object-fit: cover; display: block;"
+      />
+    </td>
+    <td style="width: 50%; padding: 0; border: none;">
+      <a href="https://github.com/melik-bagriyanik" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%; height: 180px;">
+        <img
+          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500"
+          alt="GitHub Streak"
+          style="width: 100%; height: 180px; border-radius: 15px; object-fit: cover; display: block;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    alt="Top Langs"
-    style="flex: 1; height: 180px; border-radius: 15px; object-fit: cover;"
-  />
-
-  <a href="https://github.com/melik-bagriyanik" target="_blank" rel="noopener noreferrer" style="flex: 1;">
-    <img
-      src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500"
-      alt="GitHub Streak"
-      style="width: 100%; height: 180px; border-radius: 15px; object-fit: cover;"
-    />
-  </a>
-
-</div>
 
 
 
