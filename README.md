@@ -54,30 +54,24 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" style="border: none; padding: 0; vertical-align: top;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-        alt="Top Langs"
-        width="100%"
-        height="180"
-        style="border-radius: 15px; display: block;"
-      />
-    </td>
-    <td width="50%" style="border: none; padding: 0; vertical-align: top;">
-      <a href="https://github.com/melik-bagriyanik" target="_blank" rel="noopener noreferrer" style="display: block; width: 100%; height: 180px;">
-        <img
-          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500"
-          alt="GitHub Streak"
-          width="100%"
-          height="180"
-          style="border-radius: 15px; display: block;"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10px; width: 100%; max-width: 1000px; margin: auto;">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Langs"
+    style="flex: 1; height: 180px; border-radius: 15px; object-fit: cover;"
+  />
+
+  <a href="https://github.com/melik-bagriyanik" target="_blank" rel="noopener noreferrer" style="flex: 1;">
+    <img
+      src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=500"
+      alt="GitHub Streak"
+      style="width: 100%; height: 180px; border-radius: 15px; object-fit: cover;"
+    />
+  </a>
+
+</div>
+
 
 
 
