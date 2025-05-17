@@ -51,7 +51,7 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ### 🛠️ GitHub Stats
 
-<p align="start">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
 <p align="start" style="display: flex; justify-content: center; gap: 20px;">
