@@ -69,6 +69,7 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
           src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=480"
           alt="GitHub Streak"
           width="90%"
+height="100%"
         />
       </a>
     </td>
