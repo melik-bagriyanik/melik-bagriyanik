@@ -33,7 +33,11 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ### 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melik-bagriyanik-0453b2217/)
+- <p align="center">
+  <a href="https://www.linkedin.com/in/melik-ba%C4%9Fr%C4%B1yan%C4%B1k-0453b2217/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 
 ---
@@ -55,4 +59,5 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
+
 
