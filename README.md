@@ -54,28 +54,31 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none; padding: 0;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=melik-bagriyanik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
         alt="Top Langs"
         width="400"
         height="180"
+        style="border-radius: 15px;"
       />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="border: none; padding: 0;">
       <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
         <img
-          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=2&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=400"
+          src="https://streak-stats.demolab.com?user=melik-bagriyanik&theme=dark&hide_border=true&border_radius=15&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=400"
           alt="GitHub Streak"
           width="400"
           height="180"
+          style="border-radius: 15px;"
         />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
