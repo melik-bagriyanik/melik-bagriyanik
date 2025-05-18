@@ -41,14 +41,6 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ---
 
-### ✨ What I’m Currently Working On
-
-- Improving my mobile app development skills using React Native
-- Exploring advanced patterns in React and performance optimization
-- Continuously building side projects to experiment and learn new things
-
----
-
 ### 🛠️ GitHub Stats
 
 <p align="center">
