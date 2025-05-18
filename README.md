@@ -17,29 +17,31 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ---
 
 ### Web & Mobile | Tools & Skills
+<div style="display: flex; justify-content: center;">
+  <table style="width: 80%; border-collapse: collapse;">
+    <tr>
+      <th style="width: 50%; text-align: left;">Web & Mobile</th>
+      <th style="width: 50%; text-align: left;">Tools & Skills</th>
+    </tr>
+    <tr>
+      <td>⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
+      <td>🔧 <strong>Git & GitHub</strong> (Proficient)</td>
+    </tr>
+    <tr>
+      <td>📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
+      <td>🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
+    </tr>
+    <tr>
+      <td>🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
+      <td>📱 <strong>Responsive Design</strong> (Strong skills)</td>
+    </tr>
+    <tr>
+      <td>🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
-<table style="width:100%">
-  <tr>
-    <th style="width:70%">Web & Mobile</th>
-    <th style="width:100%">Tools & Skills</th>
-  </tr>
-  <tr>
-    <td>⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
-    <td>🔧 <strong>Git & GitHub</strong> (Proficient)</td>
-  </tr>
-  <tr>
-    <td>📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
-    <td>🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
-  </tr>
-  <tr>
-    <td>🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
-    <td>📱 <strong>Responsive Design</strong> (Strong skills)</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
-    <td></td>
-  </tr>
-</table>
 
 
 ---
