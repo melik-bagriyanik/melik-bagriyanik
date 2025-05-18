@@ -43,17 +43,6 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 </div>
 
 
-
----
-
-### 📫 Connect With Me
-
-- 
-  <a href="https://www.linkedin.com/in/melik-ba%C4%9Fr%C4%B1yan%C4%B1k-0453b2217/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-
 ---
 
 ### 🛠️ GitHub Stats
