@@ -20,8 +20,8 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 <table style="width:100%">
   <tr>
-    <th>Web & Mobile</th>
-    <th>Tools & Skills</th>
+    <th style="width:70%">Web & Mobile</th>
+    <th style="width:100%">Tools & Skills</th>
   </tr>
   <tr>
     <td>⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
