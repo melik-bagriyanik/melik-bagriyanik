@@ -17,30 +17,36 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ---
 
 ### Web & Mobile | Tools & Skills
+
 <div style="display: flex; justify-content: center;">
-  <table style="width: 80%; border-collapse: collapse;">
-    <tr>
-      <th style="width: 50%; text-align: left;">Web & Mobile</th>
-      <th style="width: 50%; text-align: left;">Tools & Skills</th>
-    </tr>
-    <tr>
-      <td>⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
-      <td>🔧 <strong>Git & GitHub</strong> (Proficient)</td>
-    </tr>
-    <tr>
-      <td>📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
-      <td>🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
-    </tr>
-    <tr>
-      <td>🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
-      <td>📱 <strong>Responsive Design</strong> (Strong skills)</td>
-    </tr>
-    <tr>
-      <td>🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
-      <td></td>
-    </tr>
+  <table style="width: 80%; border-collapse: collapse; background-color: #f9f9f9; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); font-family: Arial, sans-serif;">
+    <thead style="background-color: #efefef;">
+      <tr>
+        <th style="width: 50%; text-align: left; padding: 12px 16px; font-size: 16px; border-bottom: 2px solid #ddd;">Web & Mobile</th>
+        <th style="width: 50%; text-align: left; padding: 12px 16px; font-size: 16px; border-bottom: 2px solid #ddd;">Tools & Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 12px 16px;">⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
+        <td style="padding: 12px 16px;">🔧 <strong>Git & GitHub</strong> (Proficient)</td>
+      </tr>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 12px 16px;">📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
+        <td style="padding: 12px 16px;">🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
+      </tr>
+      <tr>
+        <td style="padding: 12px 16px;">🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
+        <td style="padding: 12px 16px;">📱 <strong>Responsive Design</strong> (Strong skills)</td>
+      </tr>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 12px 16px;">🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
+        <td style="padding: 12px 16px;"></td>
+      </tr>
+    </tbody>
   </table>
 </div>
+
 
 
 ---
