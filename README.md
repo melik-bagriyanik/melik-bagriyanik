@@ -18,12 +18,28 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ### Web & Mobile | Tools & Skills
 
-| **Web & Mobile**                                                                 | **Tools & Skills**                              |
-|----------------------------------------------------------------------------------|-------------------------------------------------|
-| ⚛️ **React.js**, **Next.js** (Advanced)                                          | 🔧 **Git & GitHub** (Proficient)                |
-| 📱 **React Native**, **Flutter** (Above Beginner)                                | 🌐 **RESTful APIs** (Good understanding)        |
-| 🎨 **CSS** (Expert), **HTML** (Proficient)                                       | 📱 **Responsive Design** (Strong skills)        |
-| 🧠 **JavaScript**, **TypeScript** (Intermediate)                                 |                                                 |
+<table style="width:100%">
+  <tr>
+    <th>Web & Mobile</th>
+    <th>Tools & Skills</th>
+  </tr>
+  <tr>
+    <td>⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
+    <td>🔧 <strong>Git & GitHub</strong> (Proficient)</td>
+  </tr>
+  <tr>
+    <td>📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
+    <td>🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
+  </tr>
+  <tr>
+    <td>🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
+    <td>📱 <strong>Responsive Design</strong> (Strong skills)</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
+    <td></td>
+  </tr>
+</table>
 
 
 ---
