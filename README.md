@@ -16,16 +16,14 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ---
 
-### 🚀 Tech Stack
-
 ### Web & Mobile | Tools & Skills
 
-| Web & Mobile                                      | Tools & Skills                      |
-|--------------------------------------------------|-------------------------------------|
-| ⚛️ **React.js**, **Next.js** (Advanced)           | 🔧 **Git & GitHub** (Proficient)     |
-| 📱 **React Native**, **Flutter** (Above Beginner) | 🌐 **RESTful APIs** (Good understanding) |
-| 🎨 **CSS** (Expert), **HTML** (Proficient)        | 📱 **Responsive Design** (Strong skills) |
-| 🧠 **JavaScript**, **TypeScript** (Intermediate)  |                                     |
+| **Web & Mobile**                                                                 | **Tools & Skills**                              |
+|----------------------------------------------------------------------------------|-------------------------------------------------|
+| ⚛️ **React.js**, **Next.js** (Advanced)                                          | 🔧 **Git & GitHub** (Proficient)                |
+| 📱 **React Native**, **Flutter** (Above Beginner)                                | 🌐 **RESTful APIs** (Good understanding)        |
+| 🎨 **CSS** (Expert), **HTML** (Proficient)                                       | 📱 **Responsive Design** (Strong skills)        |
+| 🧠 **JavaScript**, **TypeScript** (Intermediate)                                 |                                                 |
 
 
 ---
