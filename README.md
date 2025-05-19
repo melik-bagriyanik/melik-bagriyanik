@@ -31,16 +31,16 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ---
 
-## 🧪 Yetenek Düzeyim
+## 🧪 Skill Levels
 
-| Teknoloji        | Seviye            |
-|------------------|-------------------|
-| **Next.js**      | ⭐⭐⭐⭐☆ (İyi)       |
-| **React.js**     | ⭐⭐⭐⭐☆ (İyi)       |
-| **HTML / CSS**   | ⭐⭐⭐⭐☆ (İyi)       |
-| **JavaScript**   | ⭐⭐⭐☆☆ (Orta)      |
-| **React Native** | ⭐⭐☆☆☆ (Orta-Alt)  |
-| **Flutter**      | ⭐⭐☆☆☆ (Orta-Alt)  |
+| Technology        | Level              |
+|-------------------|--------------------|
+| **Next.js**       | ⭐⭐⭐⭐☆ (Proficient) |
+| **React.js**      | ⭐⭐⭐⭐☆ (Proficient) |
+| **HTML / CSS**    | ⭐⭐⭐⭐☆ (Proficient) |
+| **JavaScript**    | ⭐⭐⭐☆☆ (Intermediate) |
+| **React Native**  | ⭐⭐☆☆☆ (Beginner-Intermediate) |
+| **Flutter**       | ⭐⭐☆☆☆ (Beginner-Intermediate) |
 
 
 ---
