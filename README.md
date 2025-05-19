@@ -16,37 +16,31 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 ---
 
-### Web & Mobile | Tools & Skills
+## 🧰 Tech Stack
 
-<div style="display: flex; justify-content: center;">
-  <table style="width: 80%; border-collapse: collapse; background-color: #f9f9f9; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); font-family: Arial, sans-serif;">
-    <thead style="background-color: #efefef;">
-      <tr>
-        <th style="width: 50%; text-align: left; padding: 12px 16px; font-size: 16px; border-bottom: 2px solid #ddd;">Web & Mobile</th>
-        <th style="width: 50%; text-align: left; padding: 12px 16px; font-size: 16px; border-bottom: 2px solid #ddd;">Tools & Skills</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 12px 16px;">⚛️ <strong>React.js</strong>, <strong>Next.js</strong> (Advanced)</td>
-        <td style="padding: 12px 16px;">🔧 <strong>Git & GitHub</strong> (Proficient)</td>
-      </tr>
-      <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 16px;">📱 <strong>React Native</strong>, <strong>Flutter</strong> (Above Beginner)</td>
-        <td style="padding: 12px 16px;">🌐 <strong>RESTful APIs</strong> (Good understanding)</td>
-      </tr>
-      <tr>
-        <td style="padding: 12px 16px;">🎨 <strong>CSS</strong> (Expert), <strong>HTML</strong> (Proficient)</td>
-        <td style="padding: 12px 16px;">📱 <strong>Responsive Design</strong> (Strong skills)</td>
-      </tr>
-      <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 16px;">🧠 <strong>JavaScript</strong>, <strong>TypeScript</strong> (Intermediate)</td>
-        <td style="padding: 12px 16px;"></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+### 🚀 Web Development
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+
+---
+
+## 🧪 Yetenek Düzeyim
+
+| Teknoloji        | Seviye            |
+|------------------|-------------------|
+| **Next.js**      | ⭐⭐⭐⭐☆ (İyi)       |
+| **React.js**     | ⭐⭐⭐⭐☆ (İyi)       |
+| **HTML / CSS**   | ⭐⭐⭐⭐☆ (İyi)       |
+| **JavaScript**   | ⭐⭐⭐☆☆ (Orta)      |
+| **React Native** | ⭐⭐☆☆☆ (Orta-Alt)  |
+| **Flutter**      | ⭐⭐☆☆☆ (Orta-Alt)  |
 
 
 ---
