@@ -29,18 +29,6 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
----
-
-## 🧪 Skill Levels
-
-| Technology        | Level              |
-|-------------------|--------------------|
-| **Next.js**       | ⭐⭐⭐⭐☆ (Proficient) |
-| **React.js**      | ⭐⭐⭐⭐☆ (Proficient) |
-| **HTML / CSS**    | ⭐⭐⭐⭐☆ (Proficient) |
-| **JavaScript**    | ⭐⭐⭐☆☆ (Intermediate) |
-| **React Native**  | ⭐⭐☆☆☆ (Beginner-Intermediate) |
-| **Flutter**       | ⭐⭐☆☆☆ (Beginner-Intermediate) |
 
 
 ---
