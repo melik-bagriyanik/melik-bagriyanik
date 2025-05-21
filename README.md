@@ -36,7 +36,10 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ### 🛠️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical&column=3" alt="Melik's GitHub Trophy" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=gruvbox&column=6" width="500px" />
+
+
 </p>
 
 <table style="width: 100%; max-width: 1000px; table-layout: fixed; border-collapse: separate; border-spacing: 10px; border: none;">
