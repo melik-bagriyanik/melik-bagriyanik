@@ -37,7 +37,7 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 
 <p align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=gruvbox&column=6" width="500px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=gruvbox"  />
 
 
 </p>
