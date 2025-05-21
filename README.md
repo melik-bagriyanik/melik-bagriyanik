@@ -38,6 +38,8 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=radical" alt="Melik's GitHub Trophy" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=melik-bagriyanik&show_icons=true&theme=radical" alt="stats" />
+
 <table style="width: 100%; max-width: 1000px; table-layout: fixed; border-collapse: separate; border-spacing: 10px; border: none;">
   <tr style="border: none;">
     <td style="width: 50%; padding: 0; border: none;">
