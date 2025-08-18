@@ -60,13 +60,3 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
   </tr>
 </table>
 
----
-
-### 📊 Overall GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=melik-bagriyanik&show_icons=true&theme=dark&hide_border=true&border_radius=15" 
-    alt="GitHub Stats" 
-    style="width: 100%; max-width: 600px; border-radius: 15px;" 
-  />
-</p>
