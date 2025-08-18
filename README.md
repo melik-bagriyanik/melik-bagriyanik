@@ -10,7 +10,7 @@ Frontend Developer • Computer Engineer • 2.5+ Years Experience
 
 I'm a Computer Engineering graduate and a passionate Frontend Developer with over **2.5 years of full-time experience** in building responsive and modern web and mobile applications.
 
-I specialize in **React.js** and **Next.js**, creating clean, maintainable, and scalable frontend architectures. I also have practical experience in **React Native** and **Flutter** for mobile development.
+I specialize in **React.js** and **Next.js**, creating clean, maintainable, and scalable frontend architectures. I also have practical experience in **React Native**, **Flutter**, **Vue.js**, and **.NET** for full-stack development.
 
 I take pride in writing well-structured, responsive CSS and have a strong eye for UI/UX details.
 
@@ -21,6 +21,8 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ### 🚀 Web Development
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -29,16 +31,12 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
 
-
-
 ---
 
 ### 🛠️ GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=gruvbox&no-bg=true&margin-w=15" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=melik-bagriyanik&theme=gruvbox&no-bg=true&margin-w=15" />
 </p>
 
 <table style="width: 100%; max-width: 1000px; table-layout: fixed; border-collapse: separate; border-spacing: 10px; border: none;">
@@ -62,11 +60,13 @@ I take pride in writing well-structured, responsive CSS and have a strong eye fo
   </tr>
 </table>
 
+---
 
-
-
-
-
-
-
-
+### 📊 Overall GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=melik-bagriyanik&show_icons=true&theme=dark&hide_border=true&border_radius=15" 
+    alt="GitHub Stats" 
+    style="width: 100%; max-width: 600px; border-radius: 15px;" 
+  />
+</p>
