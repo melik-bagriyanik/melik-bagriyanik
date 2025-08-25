@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Melik Bagriyanik</h1>
 
 <p align="center">
-Frontend Developer • Computer Engineer • 2.5+ Years Experience
+Full Stack Developer • Front-End Developer • 3 Years Experience
 </p>
 
 ---
 
 ### 💼 About Me
 
-I'm a Computer Engineering graduate and a passionate Frontend Developer with over **2.5 years of full-time experience** in building responsive and modern web and mobile applications.
+I'm a Computer Engineering graduate and a passionate Frontend Developer with over **3 years of full-time experience** in building responsive and modern web and mobile applications.
 
 I specialize in **React.js** and **Next.js**, creating clean, maintainable, and scalable frontend architectures. I also have practical experience in **React Native**, **Flutter**, **Vue.js**, and **.NET** for full-stack development.
 
